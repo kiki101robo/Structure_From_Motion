@@ -32,4 +32,6 @@ To process an image sequence and reconstruct the 3D scene:
 
 ## Output
 - Outputs a PLY file with the 3D point cloud which can be viewed in visualization tools like MeshLab.
+## Demo 
+![Demo GIF](data/images/SFM-ezgif.com-optimize)
 
